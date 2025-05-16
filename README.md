@@ -34,7 +34,7 @@ This project simulates and analyzes ECG (Electrocardiogram) signals using Python
 
 ## 📸 Sample Output
 
-*Add screenshots of the plots from your code here (Filtered ECG, R-peaks, etc.)*
+Open the Project PPT
 
 ## 👨‍💻 Author
 Youssef Essam  
