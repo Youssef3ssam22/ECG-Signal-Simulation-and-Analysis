@@ -1,4 +1,3 @@
-# ECG-Signal-Simulation-and-Analysis
 # Real-Time ECG Signal Simulation and Analysis
 
 This project simulates and analyzes ECG (Electrocardiogram) signals using Python. It was developed as part of the *Biomedical Data Acquisition* course (BMD351 - Fall 2024) at Galala University.
